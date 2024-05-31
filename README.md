@@ -4,7 +4,7 @@ FOS is an educational OS for Ain Shams University Operating Systems Course CSW35
 
 ## Milestones
 
-The FOS project is divided into two milestones, each building upon the previous one:
+The FOS project is divided into two milestones, with the second building upon the previous one:
 
 ## Milestone 1
 In Milestone 1, the focus was on implementing the following functionalities within the FOS operating system:
